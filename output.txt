@@ -1,0 +1,11 @@
+=======================================================
+          ADVANCED MULTICORE PERFORMANCE ANALYSIS       
+=======================================================
+ Core 0 -> L1 Hits:  199 | L1 Misses:  201 | Miss Rate: 50.25%
+ Core 1 -> L1 Hits:    0 | L1 Misses:  200 | Miss Rate: 100.00%
+ Core 2 -> L1 Hits:  199 | L1 Misses:    1 | Miss Rate: 0.50%
+ Core 3 -> L1 Hits:    0 | L1 Misses:    0 | Miss Rate: 0.00%
+-------------------------------------------------------
+ Total Simulated Execution Cost: 15365 Clock Cycles
+ Simulated Average Cycles Per Memory Access (AMAT): 19.21
+=======================================================
