@@ -1,0 +1,2 @@
+# Cycle-Accurate-Multicore-Cache-Simulator-with-MESI-Coherence
+A lightweight, object-oriented, cycle-accurate C++ simulation model of a multi-core processor memory hierarchy. The engine simulates private L1 caches, an interconnect snooping bus, and evaluates average memory access time (AMAT) metrics alongside hardware coherence states using the MESI (Modified, Exclusive, Shared, Invalid) protocol.
